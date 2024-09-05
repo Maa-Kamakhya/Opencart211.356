@@ -1,0 +1,24 @@
+11:47:54.361 [main] INFO  testCases.TC001_AccounRegistrationTest - **validating expected massage** 
+11:47:54.503 [main] INFO  testCases.TC001_AccounRegistrationTest - *********Finidhed  TC001_AccounRegistrationTest **********
+12:44:54.146 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\PRUTHVIRAJ\eclipse-workspace\Opencart211.356\master.xml"
+12:46:10.664 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\PRUTHVIRAJ\eclipse-workspace\Opencart211.356\master.xml"
+12:46:18.069 [main] INFO  testCases.TC001_AccounRegistrationTest - *********Strting TC001_AccounRegistrationTest **********
+12:46:18.390 [main] INFO  testCases.TC001_AccounRegistrationTest - **Clicked on My Account link** 
+12:46:19.091 [main] INFO  testCases.TC001_AccounRegistrationTest - **Clicked on Register link** 
+12:46:19.122 [main] INFO  testCases.TC001_AccounRegistrationTest - **Providing customer details** 
+12:46:21.647 [main] INFO  testCases.TC001_AccounRegistrationTest - **validating expected massage** 
+12:46:22.595 [main] INFO  testCases.TC001_AccounRegistrationTest - *********Finidhed  TC001_AccounRegistrationTest **********
+18:29:52.158 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\PRUTHVIRAJ\eclipse-workspace\Opencart211.356\master.xml"
+18:29:58.848 [main] INFO  testCases.TC001_AccounRegistrationTest - *********Strting TC001_AccounRegistrationTest **********
+18:29:58.976 [main] INFO  testCases.TC001_AccounRegistrationTest - **Clicked on My Account link** 
+18:29:59.551 [main] INFO  testCases.TC001_AccounRegistrationTest - **Clicked on Register link** 
+18:29:59.555 [main] INFO  testCases.TC001_AccounRegistrationTest - **Providing customer details** 
+18:30:01.004 [main] INFO  testCases.TC001_AccounRegistrationTest - **validating expected massage** 
+18:30:01.050 [main] INFO  testCases.TC001_AccounRegistrationTest - *********Finidhed  TC001_AccounRegistrationTest **********
+18:46:15.448 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\PRUTHVIRAJ\eclipse-workspace\Opencart211.356\master.xml"
+18:46:19.791 [main] INFO  testCases.TC001_AccounRegistrationTest - *********Strting TC001_AccounRegistrationTest **********
+18:46:19.952 [main] INFO  testCases.TC001_AccounRegistrationTest - **Clicked on My Account link** 
+18:46:20.527 [main] INFO  testCases.TC001_AccounRegistrationTest - **Clicked on Register link** 
+18:46:20.527 [main] INFO  testCases.TC001_AccounRegistrationTest - **Providing customer details** 
+18:46:21.952 [main] INFO  testCases.TC001_AccounRegistrationTest - **validating expected massage** 
+18:46:21.993 [main] INFO  testCases.TC001_AccounRegistrationTest - *********Finidhed  TC001_AccounRegistrationTest **********
